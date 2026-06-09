@@ -2,7 +2,7 @@
 Exploration on Italian goat breeds — Erasmus Dissertation
 
 This repository accompanies the Erasmus dissertation:
-**"Genomic Selection Signatures in Italian Goat Breeds"**
+**"Characterising Genomic Diversity and Selection in Italian Goat Breeds"**
 
 ## Overview
 FST-based analysis of genomic differentiation between Italian Alpine and Saanen goats 
