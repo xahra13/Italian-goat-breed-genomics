@@ -12,4 +12,4 @@ and Italian local breeds, using genotype data from 1,071 animals across 33 breed
 The full analysis is available as an interactive Marimo notebook:
 https://molab.marimo.io/notebooks/nb_LPpUc1CkiuEgPqsCpvgw1J
 
-Zahra — Erasmus Master's in Animal Breeding and Genetics
+Zahra Mohammadi
