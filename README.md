@@ -11,8 +11,11 @@ https://molab.marimo.io/notebooks/nb_LPpUc1CkiuEgPqsCpvgw1J
 
 # How to run
 Click the link above to open the notebook - it opens in read-only mode by default
+
 To interact with the tool, fork the notebook on Marimo by clicking the Fork button
+
 Click the yellow ▶ arrow to launch it in Marimo environment
+
 Click the grid icon (⊞) in the top toolbar to switch to dashboard view — this shows all panels side by side without the code cells
 
 # How to explore
