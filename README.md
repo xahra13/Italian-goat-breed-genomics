@@ -1,6 +1,4 @@
 # Italian-goat-breed-genomics
-Exploration on Italian goat breeds — Erasmus Dissertation
-
 This repository accompanies the Erasmus dissertation:
 "In-depth Genomic Exploration of Italian Goat Breeds Using Visual Analytics"
 
