@@ -3,7 +3,7 @@ This repository accompanies the Erasmus dissertation:
 "In-depth Genomic Exploration of Italian Goat Breeds Using Visual Analytics"
 
 ## Overview
-This project takes a visual, data-driven exploration approach to understanding genomic differentiation between Italian Alpine and Saanen goats and Italian local breeds. Rather than testing predefined hypotheses, the interactive tool allows the user to explore the data directly — observing population structure in the network, selecting breed groups of interest, and dynamically identifying genomic regions that differentiate them. The analysis uses genotype data from 1,071 animals across 33 breeds (Cortellari et al., 2021).
+This project takes a visual, data-driven exploration approach to understanding genomic differentiation between Italian Alpine and Saanen goats and Italian local breeds. Rather than testing predefined hypotheses, the interactive tool allows the user to explore the data directly observing population structure in the network, selecting breed groups of interest, and dynamically identifying genomic regions that differentiate them. The analysis uses genotype data from 1,071 animals across 33 breeds (Cortellari et al., 2021).
 
 ## Interactive Notebook
 The full analysis is available as an interactive Marimo notebook:
