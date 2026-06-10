@@ -20,9 +20,15 @@ Click the grid icon (⊞) in the top toolbar to switch to dashboard view — thi
 
 # How to explore
 Start with the network (Panel 1):
-Select a breed from the "Select by breed" dropdown — for example, selecting ALP highlights all Alpine animals and shows where they sit in the multi-MST network relative to all other breeds. Switch the "Colour by" option between breed and region to explore different patterns in the population structure.
+Select a breed from the "Select by breed" dropdown — for example, selecting ALP highlights all Alpine animals and shows where they sit in the multi-MST network relative to all other breeds. 
+Switch the "Colour by" option between breed and region to explore different patterns in the population structure.
+
 Follow up in the SNP panel (Panel 2):
-ALP and SAA are pre-selected as the focal group by default. The panel dynamically shows the top differentiating SNPs between the selected group and the reference group, ranked by Hudson FST and allele frequency difference. Change the comparison by selecting different breeds in the Group 1 and Group 2 dropdowns — the ranking updates instantly. Use the SNP Feature Ranker to filter by chromosome or genomic region and adjust the number of top SNPs displayed.
+ALP and SAA are pre-selected as the focal group by default. The panel dynamically shows the top differentiating SNPs between the selected group and the reference group, ranked by Hudson FST and allele frequency difference. 
+Change the comparison by selecting different breeds in the Group 1 and Group 2 dropdowns — the ranking updates instantly.
+
+Use the SNP Feature Ranker to filter by chromosome or genomic region and adjust the number of top SNPs displayed.
+
 Gene-level exploration:
 The gene-level ranking table aggregates SNP-level results per annotated gene, showing maximum FST and maximum |Δfreq| per gene. This allows rapid identification of candidate genomic regions for biological follow-up.
 
