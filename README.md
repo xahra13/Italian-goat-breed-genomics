@@ -11,12 +11,12 @@ This project takes a visual, data-driven exploration approach to understanding g
 The full analysis is available as an interactive Marimo notebook:
 https://molab.marimo.io/notebooks/nb_LPpUc1CkiuEgPqsCpvgw1J
 
-How to run
+# How to run
 Click the link above to open the notebook
 Click the yellow ▶ arrow to launch it in Marimo's cloud environment
 Click the grid icon (⊞) in the top toolbar to switch to dashboard view — this shows all panels side by side without the code cells
 
-How to explore
+# How to explore
 Start with the network (Panel 1):
 Select a breed from the "Select by breed" dropdown — for example, selecting ALP highlights all Alpine animals and shows where they sit in the multi-MST network relative to all other breeds. Switch the "Colour by" option between breed and region to explore different patterns in the population structure.
 Follow up in the SNP panel (Panel 2):
